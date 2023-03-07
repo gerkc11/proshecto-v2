@@ -67,3 +67,44 @@ body {
     padding: 30px;
     background-color: #efefef;
 }
+
+.info{
+    margin: 5px;
+    padding: 5px;
+    background-color: #000000;
+    color: #efefef;
+}
+
+.info h4{
+    color:#cb4e42;
+    text-align: center;
+}
+
+.info a{
+    color: #cb4e42;
+    text-decoration: none;
+}
+
+.productos{
+	margin: 5px;
+	padding: 5px;
+	background-color: black;
+	text-align: center;
+}
+
+.productos h2{
+
+	text-align: center;
+	color: #efefef;
+}
+
+.productos p{
+
+	text-align: left;
+	color: #efefef;
+}
+
+.productos img{
+    width: 100%;
+	border: solid brown 3px;
+}
